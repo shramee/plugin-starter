@@ -1,4 +1,4 @@
-# Simple plugin starter
+# My Plugin
 
 A structured, object oriented foundation to help you quickly build and deliver plugins.
 
